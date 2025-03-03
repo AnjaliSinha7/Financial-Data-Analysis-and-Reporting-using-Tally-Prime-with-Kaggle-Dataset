@@ -1,0 +1,24 @@
+# Financial-Data-Analysis-and-Reporting-using-Tally-Prime-with-Kaggle-Dataset
+
+This project demonstrates the application of Tally Prime to analyze and manage real-world financial data obtained from a Kaggle dataset. It showcases proficiency in accounting principles and financial reporting using Tally Prime's features.
+
+## Overview
+
+This project aims to:
+
+* **Demonstrate practical application of Tally Prime:** Showcasing skills in utilizing Tally Prime for real-world financial data analysis.
+* **Analyze a Kaggle dataset:** Applying accounting principles to understand and interpret a financial dataset from Kaggle.
+* **Generate financial reports:** Utilizing Tally Prime's reporting capabilities to create insightful financial statements.
+
+## Key Features
+
+* **Data Import and Management:** Successfully importing and managing a Kaggle dataset within Tally Prime.
+* **Chart of Accounts:** Creating and utilizing a relevant Chart of Accounts to organize financial data.
+* **Voucher Entry:** Accurately entering financial transactions using various voucher types in Tally Prime.
+* **Financial Statement Generation:** Generating key financial reports such as Balance Sheet, Profit & Loss Statement, and Trial Balance.
+
+
+## Tally Prime Features Utilized
+
+* **Accounting Masters:** Creating ledgers, groups, and voucher types relevant to the dataset.
+* **Inventory Management:** Managing inventory data
